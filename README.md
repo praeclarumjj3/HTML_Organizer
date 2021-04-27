@@ -33,6 +33,8 @@ pip3 install -r requirements.txt
 sh create_html.sh
 ```
 
-#### Example
+#### Demos
 
-![Demo](web/demo.png)
+![Demo1](web/demo1.png)
+
+![Demo2](web/demo2.png)

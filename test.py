@@ -42,4 +42,4 @@ if __name__ == '__main__':
     help="name of images directory inside the web directory")
     args =  parser.parse_args()
     
-    main()
+    main(args)
